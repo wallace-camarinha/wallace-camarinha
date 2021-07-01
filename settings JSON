@@ -1,0 +1,65 @@
+{
+
+  /* PLUGINS
+  Code Spell Checker
+  Git History
+  HTML CSS Support
+  Import Cost
+  Ligatures Limited
+  
+  
+  
+  
+  */
+  /* EDITOR CONFIG */
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "explorer.compactFolders": false,
+  "editor.wordWrap": "on",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+
+  /* FORMATING */
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.esLint": true
+  //   "source.fixAll": true,
+  // // },
+  "editor.formatOnSave": false,
+  // "[javascript]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "editor.codeActionsOnSave": {
+  //   "source.fixAll.esLint": true
+  // },
+  // "eslint.alwaysShowStatus": true,
+  // "files.autoSave": "onFocusChange",
+
+  /* TERMINAL */
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "tabnine.experimentalAutoImports": true,
+  "terminal.integrated.enableBell": true,
+  "terminal.integrated.tabs.enabled": true,
+  
+  /* MISC */
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Darcula",
+  "workbench.iconTheme": "material-icon-theme",
+  "git.confirmSync": false,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "window.zoomLevel": -1,
+  "cSpell.userWords": [
+    "middlewares",
+    "mundipagg",
+    "typeorm",
+    "varchar"
+  ]
+}
