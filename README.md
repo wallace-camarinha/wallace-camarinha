@@ -25,7 +25,7 @@
 
 
 
-### Technologies
+## Technologies
 
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
 ![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
