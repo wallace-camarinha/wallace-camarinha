@@ -18,7 +18,8 @@
 <br/>
 
 ## About me
-  Passionate about computer science, backend development, software architecture and open source. Also, have some experience in Web Development with ReactJS and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+  Passionate about computer science, backend development, software architecture. I also play a little with Web Development using ReactJS, and mobile with React Native. Currently learning new technologies to implement on real world projects.
+  Looking to cotribute more on open source projects.
 
 <div align="center">
 
