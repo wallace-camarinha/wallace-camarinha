@@ -18,8 +18,8 @@
 <br/>
 
 ## About me
-  Passionate about computer science, backend development, software architecture. I also play a little with Web Development using ReactJS, and mobile with React Native. Currently learning new technologies to implement on real world projects.
-  Looking to cotribute more on open source projects.
+  Passionate about computer science, backend development, software architecture. I also play a little with frontend using ReactJS, and mobile with React Native. Currently learning new technologies to implement on real world projects.
+  Looking to contribute more on open source projects.
 
 <div align="center">
 
