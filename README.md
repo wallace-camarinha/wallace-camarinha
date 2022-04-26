@@ -25,7 +25,8 @@
 
 ## Technologies
 
-![.NET](https://img.shields.io/badge/csharp-.net-green)
+![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=dotnet)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
