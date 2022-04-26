@@ -18,19 +18,18 @@
 <br/>
 
 ## About me
-  Passionate about computer science, backend development, software architecture. I also play a little with frontend using ReactJS, and mobile with React Native. Currently learning new technologies to implement on real world projects.
+  Passionate about computer science, backend development, software architecture. I also play a little with ReactJS.
   Looking to contribute more on open source projects.
 
 <div align="center">
 
 ## Technologies
 
+![.NET](https://img.shields.io/badge/csharp-.net-green)
 ![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
-![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
 </div>
 
