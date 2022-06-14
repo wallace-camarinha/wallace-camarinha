@@ -1,53 +1,53 @@
-## Hey, there! I'm <a href="https://www.linkedin.com/in/wallace-camarinha/">Wallace Camarinha</a>!
+###
+<h2 align="center">Hey, there! I'm Wallace</h2>
 
-<br/>
+###
+<h3 align="left">About me</h3>
 
+###
+<p align="left">I'm very passionate about computer science and software engineering. Even though I just started this journey, it's been such a joy to learn and work with development.<br>I'm always eager to deepen my knowledge on the subjects I already know something about and also to learn new things.<br>Trying to find my way to contribute to open source.</p>
+
+###
 <div align="center">
-<a href="https://www.linkedin.com/in/wallace-camarinha/">
-  <img align="left" alt="Wall's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a> 
-<a href="https://github.com/wallace-camarinha"> 
-  <img align="left" alt="Wall's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> 
-<a href="https://www.instagram.com/wallbsp/">
-  <img align="left" alt="Wall's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a> 
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=pt-br&hide_border=true&username=wallace-camarinha" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&username=wallace-camarinha" height="150" alt="languages graph"  />
 </div>
 
-<br/>
-<br/>
+###
+<p align="left"></p>
 
-## About me
-  Passionate about computer science, backend development, software architecture. I also play a little with ReactJS.
-  Looking to contribute more on open source projects.
+###
+<h3 align="left">Stack</h3>
 
-<div align="center">
-
-## Technologies
-
-![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
-![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=dotnet)
-![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" width="52" alt="dotnetcore logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
 </div>
 
-<br>
+###
+<p align="left"></p>
 
-<div align="center">
-  <a href="https://github.com/wallace-camarinha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallace-camarinha&theme=radical"/>
+###
+<h3 align="left">Social</h3>
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/wallace-camarinha/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/wallace-camarinha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wallace-camarinha&&show_icons=true&theme=radical&line_height=27&v=5" alt="Wall's GitHub Stats" />
+  <a href="mailto:wallace.camarinha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/wallbsp/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
   </a>
 </div>
 
-<div align="center">
-
-##  Let's connect
-[![Linkedin Badge](https://img.shields.io/badge/-Wall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-camarinha/)](https://www.linkedin.com/in/wallace-camarinha/) [![Gmail Badge](https://img.shields.io/badge/-wallace.camarinha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallace.camarinha@gmail.com)](mailto:wallace.camarinha@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@Wall-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/wallbsp/)](https://www.instagram.com/wallbsp/)
-
-</div>
+###
